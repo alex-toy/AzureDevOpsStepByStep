@@ -18,3 +18,15 @@
 
 - select framework
 <img src="/pictures/pipeline2.png" title="pipeline"  width="900">
+
+- in the **Project Settings** section, create an **Agent Pool**
+<img src="/pictures/pipeline3.png" title="pipeline"  width="900">
+
+- create an **Agent Pool**
+<img src="/pictures/pipeline4.png" title="pipeline"  width="900">
+
+- execute the self-hosted **Agent Pool**
+<img src="/pictures/pipeline5.png" title="pipeline"  width="900">
+
+- create a personal access token and use it
+<img src="/pictures/pipeline6.png" title="pipeline"  width="900">
