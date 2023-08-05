@@ -10,5 +10,11 @@
 
 ## Create Pipeline
 
+- in the **Repo** section, add your repo
+<img src="/pictures/pipeline0.png" title="pipeline"  width="900">
+
 - in the **Pipeline** section, choose your repo
 <img src="/pictures/pipeline.png" title="pipeline"  width="900">
+
+- select framework
+<img src="/pictures/pipeline2.png" title="pipeline"  width="900">
