@@ -5,3 +5,4 @@
 
 - how the azure board is mapped to the general workflow of devops
 <img src="/pictures/devops.png" title="general picture of devops"  width="900">
+<img src="/pictures/devops2.png" title="general picture of devops"  width="900">
