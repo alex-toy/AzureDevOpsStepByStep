@@ -53,3 +53,13 @@ In this Azure DevOps CI/CD Pipelines project, we will see how to set up a CI/CD 
 - create pipeline using the classic editor
 <img src="/pictures/cicd.png" title="pipeline"  width="900">
 <img src="/pictures/cicd2.png" title="pipeline"  width="900">
+
+### Release Pipeline
+
+- in the web app, create a slot for staging
+<img src="/pictures/staging.png" title="staging web app slot"  width="900">
+
+- create a release pipeline
+<img src="/pictures/release.png" title="web app"  width="900">
+<img src="/pictures/release2.png" title="web app"  width="900">
+<img src="/pictures/release3.png" title="web app"  width="900">
