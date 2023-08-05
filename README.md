@@ -1,1 +1,7 @@
 # Azure DevOps Step by Step
+
+
+## General picture
+
+- how the azure board is mapped to the general workflow of devops
+<img src="/pictures/devops.png" title="general picture of devops"  width="900">
