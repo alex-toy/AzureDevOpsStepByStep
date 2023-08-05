@@ -30,3 +30,6 @@
 
 - create a personal access token and use it
 <img src="/pictures/pipeline6.png" title="pipeline"  width="900">
+
+- run the pipeline on the self-hosted agent
+<img src="/pictures/pipeline7.png" title="pipeline"  width="900">
